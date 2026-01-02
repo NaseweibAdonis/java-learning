@@ -1,16 +1,69 @@
-# java-learning
- Daily Java practice and progress tracking
+# Java Learning Journey 🚀
 
-Goal: Master Java fundamentals through daily practice
+Daily Java practice and progress tracking.
 
- 📊 Progress Tracker
-- **Start Date:** 29-12-2025
-- **Current Streak:** ![GitHub Streak](https://streak-stats.demolab.com?user=NaseweibAdonis&theme=dark)
-- **Total Days:** 0
+---
 
-## 🎯 Milestones
-- [ ] Week 1: Variables, Data Types, Basic I/O
-- [ ] Week 2: Conditionals & Loops
-- [ ] Week 3: Methods & Arrays
-- [ ] Week 4: Introduction to OOP
- 
+## 🎯 Goal
+
+Master Java fundamentals through consistent daily practice and hands-on coding.
+
+---
+
+## 📅 Learning Timeline
+
+**Start Date:** 29 December 2025
+**Current Status:** Actively Learning
+**Tracking Method:** Manual progress log (independent of GitHub streaks)
+
+---
+
+## 📊 Progress Tracker
+
+| Day   | Date       | Topic                  | Status         |
+| ----- | ---------- | ---------------------- | -------------- |
+| Day 1 | 29-12-2025 | Variables & Data Types | ✅ Completed    |
+| Day 2 | 30-12-2025 | Operators              | ✅ Completed    |
+| Day 3 | 31-12-2025 | Conditional Statements | ✅ Completed    |
+| Day 4 | 01-01-2026 | Loops                  | ✅ Completed    |
+| Day 5 | 02-01-2026 | Methods & Practice     | 🔄 In Progress |
+
+---
+
+## 📚 Topics Covered
+
+* Variables and Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Methods *(in progress)*
+
+---
+
+## 🧠 Learning Approach
+
+* Practice-driven learning
+* Small daily commits
+* Focus on understanding before speed
+* Clean and readable code
+
+---
+
+## 📌 Notes
+
+* GitHub contribution streaks may not always reflect actual learning.
+* Progress is tracked manually for accuracy.
+* Consistency > Perfection.
+
+---
+
+## ✅ Next Goals
+
+* Arrays
+* Strings
+* Object-Oriented Programming (OOP)
+* Mini Java projects
+
+---
+
+📌 *This repository documents my daily Java learning journey.*
