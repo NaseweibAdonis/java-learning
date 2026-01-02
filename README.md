@@ -13,3 +13,4 @@ Goal: Master Java fundamentals through daily practice
 - [ ] Week 2: Conditionals & Loops
 - [ ] Week 3: Methods & Arrays
 - [ ] Week 4: Introduction to OOP
+ 
