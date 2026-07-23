@@ -2,7 +2,7 @@ public class Methods {
 
  // using static because there is no need for an oject for calling the function
 
-   // without parameters without return type
+   // without parameters without return type 
    static void print(){    
        
     System.out.println("Hello World!");
@@ -10,7 +10,7 @@ public class Methods {
 
     // with parameters with return type
     static int sum(int a , int b){        
-       
+          
         return a+b;
     }
 
