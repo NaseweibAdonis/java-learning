@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-//public package ProblemsSet1;
-
 // if-else
 class EvenorOddChecker {
 
