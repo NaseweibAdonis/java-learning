@@ -10,10 +10,8 @@ public class GuessingTarget {
         while(n != 7){
         System.out.print("Enter the value: ");
         n = sc.nextInt();
-        if(n == 7){
-            System.out.println("Congratulations");
-            break;
         }
+        System.out.println("Congratulations");
         }
         sc.close();
 
