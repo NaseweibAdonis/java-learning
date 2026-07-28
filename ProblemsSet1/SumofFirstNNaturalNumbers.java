@@ -1,6 +1,8 @@
+// Calculate and print the sum of integers from 1 up to a given number N.
+
 import java.util.Scanner;
 public class SumofFirstNNaturalNumbers {
-      void main(){
+      public static void main(String[] args){
         
         int sum = 0;
 

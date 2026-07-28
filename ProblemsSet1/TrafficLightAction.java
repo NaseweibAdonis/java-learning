@@ -1,3 +1,5 @@
+// Take a color input ("Red", "Yellow", "Green") and output the corresponding action ("Stop", "Ready", "Go").
+
 import java.util.Scanner;
 import java.lang.String;
 public class TrafficLightAction {

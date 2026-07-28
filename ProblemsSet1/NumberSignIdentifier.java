@@ -1,3 +1,5 @@
+// Take an integer input and print whether it is "Positive", "Negative", or "Zero".
+
 import java.util.Scanner;
 public class NumberSignIdentifier {
     

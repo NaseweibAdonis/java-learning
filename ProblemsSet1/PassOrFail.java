@@ -1,3 +1,5 @@
+// Take a student's mark as input. Print "Pass" if the mark is 50 or above; otherwise, print "Fail".
+
 import java.util.Scanner;
  public class PassOrFail {
     

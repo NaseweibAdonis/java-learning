@@ -1,3 +1,5 @@
+// Print all even numbers between 1 and 20 using a for loop.
+
 import java.util.Scanner;
 public class EvenNumbersinaRange {
     public static void main(String[] args){

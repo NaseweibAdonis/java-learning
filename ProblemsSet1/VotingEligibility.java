@@ -1,3 +1,5 @@
+//Take an age as input. Print "Eligible to vote" if age is 18 or older, else print "Not eligible".
+
 import java.util.Scanner;
 public class VotingEligibility {
     

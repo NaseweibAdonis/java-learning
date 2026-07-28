@@ -1,6 +1,6 @@
-import java.util.Scanner;
+//Take an integer input and print whether it is even or odd using the modulus operator (%).
 
-// if-else
+import java.util.Scanner;
 class EvenorOddChecker {
 
     static boolean isEvenOrOdd(int n ){
@@ -12,7 +12,7 @@ class EvenorOddChecker {
             return false;
         }
     }
-     void main(){
+    public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
 

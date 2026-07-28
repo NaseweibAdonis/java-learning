@@ -1,3 +1,5 @@
+// Take two integers as input and print which one is larger.
+
 import java.util.Scanner;
 public class MaximumofTwoNumbers {
     

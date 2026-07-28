@@ -1,3 +1,5 @@
+// Take an integer N and print its multiplication table from 1 to 10.
+
 import java.util.Scanner;
 public class Multiplication{
     public static void main(String[] args){

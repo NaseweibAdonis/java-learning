@@ -1,3 +1,5 @@
+// Take an age as input and print whether the person is a "Child" (0–12), "Teenager" (13–19), "Adult" (20–59), or "Senior" (60+).
+
 import java.util.Scanner;
 public class AgeGroupClassification {
     static void ageGroupClassification(int age){
@@ -5,7 +7,7 @@ public class AgeGroupClassification {
             System.out.println("Child");
         }
         else if(age >= 13 && age <= 19){
-            System.out.println("Teenage");
+            System.out.println("Teenager");
         }
         else if(age >= 20 && age <= 59){
             System.out.println("Adult");
