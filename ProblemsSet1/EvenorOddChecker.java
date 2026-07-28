@@ -12,7 +12,7 @@ class EvenorOddChecker {
             return false;
         }
     }
-    public static void main(String[] args){
+     void main(){
 
         Scanner sc = new Scanner(System.in);
 
