@@ -1,3 +1,5 @@
+// Use a do-while loop to print numbers from 1 to 5.
+
 public class Print1to5 {
     public static void main(String[] args) {
         int i = 1; 
