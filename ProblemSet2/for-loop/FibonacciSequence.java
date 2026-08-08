@@ -1,3 +1,5 @@
+// Print the first N terms of the Fibonacci sequence (0,1,1,2,3,5…).
+
 import java.util.Scanner;
 
 public class FibonacciSequence {
